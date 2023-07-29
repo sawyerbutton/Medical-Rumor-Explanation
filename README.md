@@ -25,7 +25,7 @@
 ## Todos
 
 - [ ] Scrape medical rumors.
-- [ ] Build a dataset for fine-tuning the Huatuo model.
+- [x] Build a dataset for fine-tuning the Huatuo model.
 - [ ] Set up the base Huatuo model.
 - [ ] Verify the rumor analysis capabilities and accuracy of the Huatuo model.
 - [ ] Fine-tune the Huatuo model using the dataset.
