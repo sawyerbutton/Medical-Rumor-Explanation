@@ -26,7 +26,7 @@
 
 - [ ] Scrape medical rumors.
 - [x] Build a dataset for fine-tuning the Huatuo model.
-- [-] Construct serveral few-shot finetune solutions for medical rumor.
+- [ ] Construct serveral few-shot finetune solutions for medical rumor.
 - [x] Using ChatGLM2-6B model to build a result baseline
 - [ ] Set up the base Huatuo model.
 - [ ] Verify the rumor analysis capabilities and accuracy of the Huatuo model.
